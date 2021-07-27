@@ -1,0 +1,61 @@
+body{
+margin: 0;
+padding: 0;
+background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url("bro.jpg")
+}
+.navbar {
+overflow:hideen;
+background:0b2463;
+font-family:arial;
+font-size:14px;
+}
+div{
+background-color:none;
+}
+div.navbar a{
+margin: 10px auto;
+float:left;
+width:100%
+display:block;
+color:#fff;
+text-align:center;
+padding:20px 15px;
+text-decoration:none;
+text-transform:upercase;
+font-weight:bold;
+boder-bottom:4px solid transparent;
+}
+.navbar a:hover{
+border-bottom:4px solid yellow;
+}
+h2{
+color:blue;
+background-color: yellow;
+border:5px solid black;
+wiegth:30%;
+hieght:40%;
+}
+h1{
+color:blue;
+border: 10px solid black;
+wiegth:30%;
+hieght:40%;
+}
+h3{
+color:white;
+border: 10px solid black;
+wiegth:30%;
+hieght:40%;
+}
+h4{
+color:white;
+border: 10px solid black;
+wiegth:30%;
+hieght:40%;
+}
+p{
+font-family:arial;
+font-style:italic;
+font-size:20px;
+margin-top: 20px auto;
+color: black;}
